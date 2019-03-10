@@ -1,0 +1,21 @@
+li {
+  padding: 25px;
+  margin: 25px;
+  background: #faebd7;
+}
+
+form {
+  padding: 25px;
+  margin: 25px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.jumbotron {
+  background: url("../img/scraper.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-origin: content-box;
+}
